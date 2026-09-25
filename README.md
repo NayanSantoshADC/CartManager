@@ -2,6 +2,8 @@
 
 A modern, responsive, installable Progressive Web App (PWA) designed to simplify grocery budgeting, aisle navigation, pantry management, and expense tracking.
 
+***Live Site:*** [https://cartmanager.pages.dev/](https://cartmanager.pages.dev/)
+
 ---
 
 > ### ⚠️ Project Disclaimer
