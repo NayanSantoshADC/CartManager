@@ -1,0 +1,12 @@
+{
+  "projectId": "cartmanagerapp",
+  "appId": "1:858428853054:web:d0b89a78197dcbe8de3a6f",
+  "apiKey": "AIzaSyCwoLBJG0wA4iPaaR2AjHli4DJztfHzHOU",
+  "authDomain": "cartmanagerapp.firebaseapp.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "cartmanagerapp.firebasestorage.app",
+  "messagingSenderId": "858428853054",
+  "measurementId": "G-2RQG2YDVMD",
+  "oAuthClientId": "",
+  "recaptchaSiteKey": ""
+}
